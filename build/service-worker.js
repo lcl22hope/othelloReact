@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/front-end/othello/precache-manifest.a64e426e9b3bf13bf242681a47270973.js"
+  "/front-end/othello/precache-manifest.c75bdfd43119b909469f6e18f2a4e334.js"
 );
 
 self.addEventListener('message', (event) => {

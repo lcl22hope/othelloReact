@@ -1,2 +1,1 @@
-# othelloReact
-othello react version
+othello react 

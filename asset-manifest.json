@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/front-end/othello/static/css/main.7813ae71.chunk.css",
+    "main.js": "/front-end/othello/static/js/main.4d0c2768.chunk.js",
+    "main.js.map": "/front-end/othello/static/js/main.4d0c2768.chunk.js.map",
+    "runtime~main.js": "/front-end/othello/static/js/runtime~main.79842f8a.js",
+    "runtime~main.js.map": "/front-end/othello/static/js/runtime~main.79842f8a.js.map",
+    "static/js/2.f9b8c8dd.chunk.js": "/front-end/othello/static/js/2.f9b8c8dd.chunk.js",
+    "static/js/2.f9b8c8dd.chunk.js.map": "/front-end/othello/static/js/2.f9b8c8dd.chunk.js.map",
+    "index.html": "/front-end/othello/index.html",
+    "precache-manifest.c75bdfd43119b909469f6e18f2a4e334.js": "/front-end/othello/precache-manifest.c75bdfd43119b909469f6e18f2a4e334.js",
+    "service-worker.js": "/front-end/othello/service-worker.js",
+    "static/css/main.7813ae71.chunk.css.map": "/front-end/othello/static/css/main.7813ae71.chunk.css.map"
+  }
+}

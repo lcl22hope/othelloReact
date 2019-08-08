@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/front-end/othello/static/css/main.7813ae71.chunk.css",
-    "main.js": "/front-end/othello/static/js/main.4d0c2768.chunk.js",
-    "main.js.map": "/front-end/othello/static/js/main.4d0c2768.chunk.js.map",
-    "runtime~main.js": "/front-end/othello/static/js/runtime~main.79842f8a.js",
-    "runtime~main.js.map": "/front-end/othello/static/js/runtime~main.79842f8a.js.map",
-    "static/js/2.f9b8c8dd.chunk.js": "/front-end/othello/static/js/2.f9b8c8dd.chunk.js",
-    "static/js/2.f9b8c8dd.chunk.js.map": "/front-end/othello/static/js/2.f9b8c8dd.chunk.js.map",
-    "index.html": "/front-end/othello/index.html",
-    "precache-manifest.c75bdfd43119b909469f6e18f2a4e334.js": "/front-end/othello/precache-manifest.c75bdfd43119b909469f6e18f2a4e334.js",
-    "service-worker.js": "/front-end/othello/service-worker.js",
-    "static/css/main.7813ae71.chunk.css.map": "/front-end/othello/static/css/main.7813ae71.chunk.css.map"
+    "main.css": "https://lcl22hope.github.io/othelloReact/static/css/main.7813ae71.chunk.css",
+    "main.js": "https://lcl22hope.github.io/othelloReact/static/js/main.cc4710c8.chunk.js",
+    "main.js.map": "https://lcl22hope.github.io/othelloReact/static/js/main.cc4710c8.chunk.js.map",
+    "runtime~main.js": "https://lcl22hope.github.io/othelloReact/static/js/runtime~main.45cb6494.js",
+    "runtime~main.js.map": "https://lcl22hope.github.io/othelloReact/static/js/runtime~main.45cb6494.js.map",
+    "static/js/2.65f0536e.chunk.js": "https://lcl22hope.github.io/othelloReact/static/js/2.65f0536e.chunk.js",
+    "static/js/2.65f0536e.chunk.js.map": "https://lcl22hope.github.io/othelloReact/static/js/2.65f0536e.chunk.js.map",
+    "index.html": "https://lcl22hope.github.io/othelloReact/index.html",
+    "precache-manifest.c28c0ef4e6475e5c495340394b0bc494.js": "https://lcl22hope.github.io/othelloReact/precache-manifest.c28c0ef4e6475e5c495340394b0bc494.js",
+    "service-worker.js": "https://lcl22hope.github.io/othelloReact/service-worker.js",
+    "static/css/main.7813ae71.chunk.css.map": "https://lcl22hope.github.io/othelloReact/static/css/main.7813ae71.chunk.css.map"
   }
 }
